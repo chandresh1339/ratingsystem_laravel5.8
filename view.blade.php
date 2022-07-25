@@ -199,13 +199,7 @@
                </div>
             </div>
          </div>
-         <div class="rightcolumn">
-            <div class="card">
-               <h2>About Me</h2>
-               <img class="fakeimg" style="height:100px;" src="https://8bityard.com/ezoimgfmt/mllibnjakigh.i.optimole.com/e4PqOHU-NUmggukx/w:110/h:48/q:auto/https://8bityard.com/wp-content/uploads/2020/05/cropped-cropped-LogoMakr_48yknb-2.png?ezimgfmt=rs:110x48/rscb1/ng:webp/ngcb1">
-               <p>Laravel | WordPress | JQuery.</p>
-            </div>
-         </div>
+         
       </div>
    </body>
 </html>
